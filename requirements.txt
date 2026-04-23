@@ -1,0 +1,7 @@
+aiogram
+aiosqlite
+python-dotenv
+cryptography
+APScheduler
+jdatetime
+qrcode
