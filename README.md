@@ -1,4 +1,4 @@
-# SonyTel Modular Bot
+# ربات دستیار فروشگاه نسخه 1
 
 1. Copy `.env.example` to `.env`
 2. Fill values
@@ -11,15 +11,6 @@ Notes:
 - Registration rejection supports an admin-provided reason.
 
 
-## انتشار روی GitHub
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
-git push -u origin main
-```
 
 ## نصب روی Ubuntu
 روی سرور:
